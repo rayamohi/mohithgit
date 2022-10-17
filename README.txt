@@ -49,4 +49,8 @@ NOTE : THIS PROGRAM RUN AN INFINITE WHILE LOOP.
 NOTE : MUTEX LOCKS HAVE NOT BEEN USED IN THIS PROGRAM.
 
 ****************************TASK 13******************************************************
-1)
+1)Run make file to obtain the a.out file.
+2)Now run ./a.out and enter the desired message you want to send to the child process.
+3)We can see th child process printing the message received from the parent process.
+
+*****************************TASK 14***************************************************
