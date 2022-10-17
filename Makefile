@@ -16,3 +16,5 @@ task12.o: task12.c
 	gcc task12.c
 task13.o: task13.c
 	gcc task13.c
+task1.o: task1.c
+	gcc task1.c
